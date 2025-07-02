@@ -2,8 +2,7 @@
 
 AI-powered Resume Ranker that compares resumes to job descriptions using OpenAI's GPT. Built with **FastAPI** (backend) and **React** (frontend).
 
-[---](https://github.com/isuru-priyankara/ai-resume-ranker/blob/f360e3fa064503fbd373b4c13ce184b8dc71ff9e/Screenshot%20(110).png)
-
+![App Screenshot](https://github.com/isuru-priyankara/ai-resume-ranker/raw/f360e3fa064503fbd373b4c13ce184b8dc71ff9e/Screenshot%20(110).png)
 
 ## 🚀 Features
 
