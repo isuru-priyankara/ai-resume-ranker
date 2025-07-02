@@ -17,6 +17,7 @@ AI-powered Resume Ranker that compares resumes to job descriptions using OpenAI'
 ## 🗂️ Project Structure
 
 ai-resume-ranker/
+
 ├── backend/ # FastAPI backend
 │ ├── app.py
 │ ├── gpt_scorer.py
